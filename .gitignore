@@ -1,0 +1,8 @@
+]
+#ignorar credenciales
+credentials.json
+
+#entorno virtuial de python 
+/venv
+//cache del pryecto
+/__pycache__
