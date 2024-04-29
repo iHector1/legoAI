@@ -4,5 +4,8 @@ credentials.json
 
 #entorno virtuial de python 
 /venv
-//cache del pryecto
+#cache del proyecto
 /__pycache__
+
+#imagenes
+/Annotations
