@@ -1,11 +1,8 @@
-]
 #ignorar credenciales
 credentials.json
 
 #entorno virtuial de python 
-/venv
+*/venv
 #cache del proyecto
-/__pycache__
+*/__pycache__
 
-#imagenes
-/Annotations
