@@ -6,3 +6,5 @@ credentials.json
 #cache del proyecto
 */__pycache__
 
+/node_modules
+
