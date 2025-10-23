@@ -41,7 +41,7 @@ def guess_lego():
     predictions = guess_legos(request.json['urls'], model)
     return jsonify({"message": "File processed", "predictions": predictions, "status": 200})
 
-
+# creacion del metodo principal
 if __name__ == '__main__':
   port = int(os.getenv('PORT', 5000))
   app.run(host='0.0.0.0', port=port)
